@@ -1,0 +1,11 @@
+#config local
+template: "Sample Template"
+valveDelay: 15 seconds
+scheduleFile: path
+zoneDescriptions:
+  - valveIndex: 0
+    name: "Front Lawn 1"
+  - valveIndex: 1
+    name: "Front Lawn 2"
+  - valveIndex: 3
+    name: "Front Lawn 3"
